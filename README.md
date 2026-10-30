@@ -81,3 +81,9 @@ These are the same weights shown on the app's *Score methodology* screen:
 Gemini gives each part a 0–100 score from the photo. The app then combines them with the weights above, in `RUBRIC` in `index.html`.
 
 The 50 built-in products keep their hand-written scores. Edit them in the `DB` list at the top of the script in `index.html`.
+
+## V2 working copy (2026-10-29)
+
+The `Candor V2` working copy keeps the existing entry point (`index.html`) and Cloudflare Function structure. It expands the in-page catalogue to 74 entries, but the additional catalogue records are not silently assigned scores: they display `Not assessed` until the scoring-system update and product-level evidence are approved. Existing hand-written values are labeled as legacy demo scores in the UI.
+
+See `catalogue_v2.csv` for the handover register, `IMAGE_SOURCES_V2.md` for packshot provenance and reuse limitations, and `SCALING_NOTES_V2.md` for the current/future architecture boundary.

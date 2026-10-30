@@ -1,0 +1,75 @@
+product_id,brand,exact_product_variant_pack_size,category,verified_gtin,image_path_or_url,image_source,fact_evidence_sources,verification_status,existing_score_status,missing_information
+p01,Patanjali,Patanjali Whole Wheat Atta,staples,,,,Legacy record; no exact packshot retained,Legacy demo score,GTIN and product-level evidence not audited
+p02,ITC,Aashirvaad Select Atta,staples,,,,Legacy record; no exact packshot retained,Legacy demo score,GTIN and product-level evidence not audited
+p03,Adani Wilmar,Fortune Chakki Fresh Atta,staples,,,,Legacy record; no exact packshot retained,Legacy demo score,GTIN and product-level evidence not audited
+p04,KRBL,India Gate Basmati Rice,staples,,,,User-supplied local pitch packshot mapped,Legacy demo score,GTIN and product-level evidence not audited
+p05,24 Mantra,24 Mantra Organic Brown Rice,staples,,,,Legacy record; no exact packshot retained,Legacy demo score,GTIN and product-level evidence not audited
+p06,Organic Tattva,Organic Tattva Toor Dal,staples,,,,Legacy record; no exact packshot retained,Legacy demo score,GTIN and product-level evidence not audited
+p07,Marico,Saffola Gold Oil,staples,,,,Legacy record; no exact packshot retained,Legacy demo score,GTIN and product-level evidence not audited
+p08,Conscious Food,Conscious Food Coconut Oil,staples,,,,Legacy record; no exact packshot retained,Legacy demo score,GTIN and product-level evidence not audited
+p09,Adani Wilmar,Fortune Sunflower Oil,staples,,,,Legacy record; no exact packshot retained,Legacy demo score,GTIN and product-level evidence not audited
+p10,True Elements,True Elements Whole Amaranth,staples,,,,User-supplied local pitch packshot mapped,Legacy demo score,GTIN and product-level evidence not audited
+p11,Amul,Amul Butter Salted,dairy,,,,Legacy record; no exact packshot retained,Legacy demo score,GTIN and product-level evidence not audited
+p12,Mother Dairy,Mother Dairy Toned Milk,dairy,,,,Legacy record; no exact packshot retained,Legacy demo score,GTIN and product-level evidence not audited
+p13,Nestlé,Nestlé MILO,dairy,,,,Legacy record; no exact packshot retained,Legacy demo score,GTIN and product-level evidence not audited
+p14,Epigamia,Epigamia Greek Yogurt,dairy,,,,Legacy record; no exact packshot retained,Legacy demo score,GTIN and product-level evidence not audited
+p15,Amul,Amul Shakti Toned Milk,dairy,,,,User-supplied local pitch packshot mapped,Legacy demo score,GTIN and product-level evidence not audited
+p16,Vedic Ghee,Vedic A2 Cow Ghee,dairy,,,,Legacy record; no exact packshot retained,Legacy demo score,GTIN and product-level evidence not audited
+p17,Tata Consumer,Tata Tea Gold,beverages,,,,Legacy record; no exact packshot retained,Legacy demo score,GTIN and product-level evidence not audited
+p18,HUL,Red Label Natural Care,beverages,,,,Legacy record; no exact packshot retained,Legacy demo score,GTIN and product-level evidence not audited
+p19,Blue Tokai,Blue Tokai Direct Trade Coffee,beverages,,,,Legacy record; no exact packshot retained,Legacy demo score,GTIN and product-level evidence not audited
+p20,HUL,Bru Gold Instant Coffee,beverages,,,,Legacy record; no exact packshot retained,Legacy demo score,GTIN and product-level evidence not audited
+p21,Paperboat,Paperboat Aam Panna,beverages,,,,Legacy record; no exact packshot retained,Legacy demo score,GTIN and product-level evidence not audited
+p22,Raw Pressery,Raw Pressery Coconut Water,beverages,,,,Legacy record; no exact packshot retained,Legacy demo score,GTIN and product-level evidence not audited
+p23,Dabur,Real Fruit Juice Mango,beverages,,,,Legacy record; no exact packshot retained,Legacy demo score,GTIN and product-level evidence not audited
+p24,Himalaya,Himalaya Neem Face Wash,personal,,,,Legacy record; no exact packshot retained,Legacy demo score,GTIN and product-level evidence not audited
+p25,Biotique,Biotique Bhringraj Shampoo,personal,,,,Legacy record; no exact packshot retained,Legacy demo score,GTIN and product-level evidence not audited
+p26,Forest Essentials,Forest Essentials Face Wash,personal,,,,Legacy record; no exact packshot retained,Legacy demo score,GTIN and product-level evidence not audited
+p27,P&G,Pantene Pro-V Shampoo,personal,,,,Legacy record; no exact packshot retained,Legacy demo score,GTIN and product-level evidence not audited
+p28,Patanjali,Patanjali Dant Kanti,personal,,,,Legacy record; no exact packshot retained,Legacy demo score,GTIN and product-level evidence not audited
+p29,Colgate,Colgate MaxFresh,personal,,,,Legacy record; no exact packshot retained,Legacy demo score,GTIN and product-level evidence not audited
+p30,Dabur,Dabur Chyawanprash,personal,,,,Legacy record; no exact packshot retained,Legacy demo score,GTIN and product-level evidence not audited
+p31,Mamaearth,Mamaearth Plant Cleanser,personal,,,,Legacy record; no exact packshot retained,Legacy demo score,GTIN and product-level evidence not audited
+p32,HUL,Vim Dishwash Liquid,household,,,,Legacy record; no exact packshot retained,Legacy demo score,GTIN and product-level evidence not audited
+p33,Jyothy Labs,Exo Dishwash Bar,household,,,,Legacy record; no exact packshot retained,Legacy demo score,GTIN and product-level evidence not audited
+p34,Seventh Gen.,Seventh Generation Dish Soap,household,,,,Legacy record; no exact packshot retained,Legacy demo score,GTIN and product-level evidence not audited
+p35,Reckitt,Dettol All Purpose Liquid,household,,,,Legacy record; no exact packshot retained,Legacy demo score,GTIN and product-level evidence not audited
+p36,Nestlé,Maggi 2-Minute Noodles,snacks,,,,Legacy record; no exact packshot retained,Legacy demo score,GTIN and product-level evidence not audited
+p37,MTR Foods,MTR Vermicelli,snacks,,,,Legacy record; no exact packshot retained,Legacy demo score,GTIN and product-level evidence not audited
+p38,Patanjali,Patanjali Atta Noodles,snacks,,,,Legacy record; no exact packshot retained,Legacy demo score,GTIN and product-level evidence not audited
+p39,ITC,Sunfeast Yippee Noodles,snacks,,,,Legacy record; no exact packshot retained,Legacy demo score,GTIN and product-level evidence not audited
+p40,Phool,Phool Makhana,snacks,,,,Legacy record; no exact packshot retained,Legacy demo score,GTIN and product-level evidence not audited
+p41,Bagrry's,Bagrry's Oats,snacks,,,,Legacy record; no exact packshot retained,Legacy demo score,GTIN and product-level evidence not audited
+p42,Kellogg's,Kellogg's Chocos,snacks,,,,Legacy record; no exact packshot retained,Legacy demo score,GTIN and product-level evidence not audited
+p43,HUL,Kissan Mixed Fruit Jam,snacks,,,,Legacy record; no exact packshot retained,Legacy demo score,GTIN and product-level evidence not audited
+p44,Natureland,Natureland Organic Honey,snacks,,,,Legacy record; no exact packshot retained,Legacy demo score,GTIN and product-level evidence not audited
+p45,Too Yumm,Too Yumm Multigrain Chips,snacks,,,,Legacy record; no exact packshot retained,Legacy demo score,GTIN and product-level evidence not audited
+p46,ITC,Sunfeast Dark Fantasy,snacks,,,,Legacy record; no exact packshot retained,Legacy demo score,GTIN and product-level evidence not audited
+p47,Amul,Amul Kool Chocolate Milk,dairy,,,,Legacy record; no exact packshot retained,Legacy demo score,GTIN and product-level evidence not audited
+p48,Dove / HUL,Dove Beauty Bar,personal,,,,Legacy record; no exact packshot retained,Legacy demo score,GTIN and product-level evidence not audited
+p49,Haldiram's,Haldiram's Moong Dal,staples,,,,Legacy record; no exact packshot retained,Legacy demo score,GTIN and product-level evidence not audited
+p50,KRBL,India Gate Rozana Basmati,staples,,,,Legacy record; no exact packshot retained,Legacy demo score,GTIN and product-level evidence not audited
+p51,Kurkure,Kurkure Masala Munch 90 g,snacks,,,https://goldensupplies.ca/cdn/shop/files/1755_grande.jpg?v=1734046475,https://goldensupplies.ca/products/1755_kurkure-masala-munch-90g,Third-party listing match; reuse permission unverified,Not assessed,GTIN and full label evidence not yet recorded
+p52,Coca-Cola,Coca-Cola Original Taste PET Bottle 750 ml,beverages,,,https://www.bbassets.com/media/uploads/p/xxl/251023_11-coca-cola-soft-drink-original-taste.jpg,https://www.coca-cola.com/in/en/brands/coca-cola/products-coca-cola,Exact size verified; retailer image reuse unverified,Not assessed,GTIN not yet recorded
+p53,Pepsi,Pepsi Cola PET Bottle 750 ml,beverages,,,https://cdn.grofers.com/app/images/products/sliding_image/60783a.jpg?ts=1662555217,https://www.vishalmegamart.com/en-in/food/beverages/cold-drinks/pepsi-soft-drink-bottle/1310013079.html,Exact size verified; retailer image reuse unverified,Not assessed,GTIN not yet recorded
+p54,Pepsi,Diet Pepsi Cola — pack size not verified,beverages,,,,https://www.sebi.gov.in/sebi_data/attachdocs/1477033193422.pdf,Variant documented; India SKU not verified,Not assessed,Exact SKU, GTIN, current availability and packshot
+p55,RAW Pressery,RAW Pressery Valencia Orange Juice 250 ml,beverages,,,https://www.bbassets.com/media/uploads/p/xl/40065041_5-raw-pressery-cold-extracted-juice-valencia-orange.jpg,https://www.rawpressery.com/products/valencia-orange,Exact size and variant matched; retailer image reuse unverified,Not assessed,GTIN not yet recorded
+p56,RAW Pressery,RAW Pressery Pomegranate Juice 250 ml,beverages,,, ,https://www.1mg.com/otc/raw-pressery-pomegranate-juice-250ml-each-otc856455,Variant and size listed; packshot not verified,Not assessed,Exact packshot and GTIN
+p57,Nutripress,Nutripress Orange cold-pressed juice 200 ml,beverages,,,,https://www.nutripress.in/,Official flavour/size listing; packshot not verified,Not assessed,Packshot, GTIN and label-level nutrition
+p58,Nutripress,Nutripress ABC cold-pressed juice 200 ml,beverages,,,,https://www.nutripress.in/,Official flavour/size listing; packshot not verified,Not assessed,Packshot, GTIN and label-level nutrition
+p59,Tata Consumer,Tata Salt Iodised Salt 1 kg,staples,,,,,Catalogue expansion; exact SKU not verified,Not assessed,GTIN, packshot and evidence
+p60,Hindustan Unilever,Surf Excel Matic Liquid Detergent 1 L,household,,,,,Catalogue expansion; exact SKU not verified,Not assessed,GTIN, packshot and evidence
+p61,Parle Products,Parle-G Original Glucose Biscuits 800 g,snacks,,,,User-supplied local pitch packshot mapped,Catalogue expansion; exact SKU not verified,Not assessed,GTIN and label evidence not audited
+p62,Britannia,Britannia Good Day Cashew Cookies 200 g,snacks,,,,,Catalogue expansion; exact SKU not verified,Not assessed,GTIN, packshot and evidence
+p63,Lay's,Lay's India's Magic Masala 50 g,snacks,,,,,Catalogue expansion; exact SKU not verified,Not assessed,GTIN, packshot and evidence
+p64,Thums Up,Thums Up Original 750 ml,beverages,,,,,Catalogue expansion; exact SKU not verified,Not assessed,GTIN, packshot and evidence
+p65,Sprite,Sprite Lemon-Lime 750 ml,beverages,,,,,Catalogue expansion; exact SKU not verified,Not assessed,GTIN, packshot and evidence
+p66,Red Bull,Red Bull Energy Drink 250 ml,beverages,,,,,Catalogue expansion; exact SKU not verified,Not assessed,GTIN, packshot and evidence
+p67,Amul,Amul Taaza Toned Milk 1 L,dairy,,,,,Catalogue expansion; exact SKU not verified,Not assessed,GTIN, packshot and evidence
+p68,Dove,Dove Daily Shine Shampoo 340 ml,personal,,,,,Catalogue expansion; exact SKU not verified,Not assessed,GTIN, packshot and evidence
+p69,Hindustan Unilever,Surf Excel Easy Wash Detergent Powder 1 kg,household,,,,,Catalogue expansion; exact SKU not verified,Not assessed,GTIN, packshot and evidence
+p70,Himalaya,Himalaya Baby Lotion 200 ml,personal,,,,,Catalogue expansion; exact SKU not verified,Not assessed,GTIN, packshot and evidence
+p71,Cadbury,Cadbury Dairy Milk Chocolate 110 g,snacks,,,,,Catalogue expansion; exact SKU not verified,Not assessed,GTIN, packshot and evidence
+p72,Britannia,Britannia NutriChoice Digestive 100 g,snacks,,,,,Catalogue expansion; exact SKU not verified,Not assessed,GTIN, packshot and evidence
+p73,Nescafé,Nescafé Classic Instant Coffee 100 g,beverages,,,,,Catalogue expansion; exact SKU not verified,Not assessed,GTIN, packshot and evidence
+p74,Haldiram's,Haldiram's Aloo Bhujia 200 g,snacks,,,,,Catalogue expansion; exact SKU not verified,Not assessed,GTIN, packshot and evidence
